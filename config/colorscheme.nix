@@ -4,7 +4,7 @@
       enable = true;
 
       settings = {
-        flavour = "mocha";
+        flavour = "macchiato";
 
         # Needed to keep terminal transparency, if any
         transparent_background = false;
